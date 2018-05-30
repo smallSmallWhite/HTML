@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c2a1ba5-f273-4e3d-a793-fd943ff519d9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/app-preview.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/zhbq.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第一天.html" afterDir="false" />
-    </list>
+    <list default="true" id="0c2a1ba5-f273-4e3d-a793-fd943ff519d9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,8 +17,8 @@
       <file leaf-file-name="第一天.html" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/前端学习/HTML/第一天.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -128,12 +118,12 @@
       <workItem from="1527488139912" duration="95000" />
       <workItem from="1527488302207" duration="1308000" />
       <workItem from="1527578150623" duration="16000" />
-      <workItem from="1527579736971" duration="9255000" />
+      <workItem from="1527579736971" duration="9869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10674000" />
+    <option name="totallyTimeSpent" value="11288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="171" y="69" width="1319" height="925" extended-state="0" />
@@ -209,8 +199,8 @@
     </entry>
     <entry file="file://$USER_HOME$/前端学习/HTML/第一天.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
