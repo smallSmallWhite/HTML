@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" translate="yes">
+<body bgcolor="white">
 <head>
     <meta charset="UTF-8">
     <title>测试数据</title>
 </head>
-<hr bgcolor="white">
 
 <!--标题-->
 <h1 align="center" style="color: blue"> 这是第一个标题</h1>
@@ -18,7 +18,7 @@
 <!--段落-->
 <p> 阿撒撒撒上拉屎</p>
 <!--链接-->
-<a href="http://www.baidu.com">百度一下 </a>
+<a href="http://www.baidu.com#tips" target="_blank" name="需要注意一下">百度一下 </a>
 <br/>
 <b> 我是加粗字体</b>
 <br/>
@@ -83,6 +83,79 @@ var person = {
     eyeColor:"blue"
 }
 </pre>
+    <!--HTML表格-->
+    <h4>三列俩行</h4>
+    <table border="1" cellspacing="10">
+        <!--表头-->
+        <tr>
+            <th bgcolor="#f0f8ff">姓名</th>
+            <th>性别</th>
+            <th>年龄</th>
+        </tr>
+        <tr>
+            <td bgcolor="#f0f8ff">张三</td>
+            <td>男</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td bgcolor="#f0f8ff">李四</td>
+            <td>女</td>
+            <td></td>
+        </tr>
+    </table>
+    <h4>一列</h4>
+    <table border="1">
+        <tr>
+            <td>100</td>
+        </tr>
+    </table>
+    <!--列表-->
+    <h4>无序列表</h4>
+    <ul>
+        <li>第一行</li>
+        <li>第二行</li>
+    </ul>
+    <h4>有序列表</h4>
+    <ol>
+        <li>第一行</li>
+        <li>第二行</li>
+    </ol>
+    <h4>定义列表</h4>
+    <dl>
+        <dt>
+            计算机
+        </dt>
+        <dd>
+            用来计算的仪器
+        </dd>
+        <dt>
+            显示器
+        </dt>
+        <dd>
+            用来显示的仪器
+        </dd>
+    </dl>
+    <h4>嵌套列表</h4>
+    <dl>
+        <ul>
+            <li>咖啡</li>
+            <li>茶</li>
+               <ul>
+                   <li>红茶</li>
+                   <li>绿茶</li>
+                      <ul>
+                          <li>中古茶</li>
+                          <li>非洲茶</li>
+                      </ul>
+               </ul>
+            <li>牛奶</li>
+        </ul>
+    </dl>
+    <h4>HTMl的块</h4>
+    <div>
+        <h1>这是一个标题</h1>
+        <p>这是一段内容</p>
+    </div>
 </code>
 <!--换行标签-->
 <br/>
